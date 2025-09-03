@@ -1,0 +1,15 @@
+.env 
+VLM/
+output/
+__pycache__/
+control.py
+docker-compose.yml
+inpaint_1111.py
+milmil.py
+multi.py
+pl.py
+pl2.py
+stable.py
+logs/
+google-chrome-stable_133.0.6943.98-1_amd64.deb
+volumes/
